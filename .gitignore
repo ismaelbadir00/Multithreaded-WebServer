@@ -1,0 +1,19 @@
+# build artifacts
+*.o
+*.a
+*.so
+server
+client
+*.out
+*.cgi
+
+# archives
+*.zip
+*.tar
+*.tar.gz
+
+# OS/IDE noise
+.DS_Store
+.vscode/
+.idea/
+*.swp
